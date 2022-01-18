@@ -2,13 +2,13 @@ program prj_sistema;
 
 uses
   Vcl.Forms,
-  uFomMan in 'Forms\uFomMan.pas' {FormMain};
+  uFomMan in 'Forms\uFomMan.pas' {Form1};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TFormMain, FormMain);
+  Application.CreateForm(TForm1, Form1);
   Application.Run;
 end.
