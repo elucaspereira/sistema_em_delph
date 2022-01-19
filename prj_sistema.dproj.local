@@ -3,11 +3,16 @@
 	<Transactions>
     <Transaction>2022/01/13 21:10:34.000.574,=C:\Users\tiocu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/01/17 21:28:41.000.125,=C:\Users\tiocu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/01/17 21:32:54.000.316,C:\Users\tiocu\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\tiocu\Documents\GitHub\testes-aplicaveis-atron\Forms\uFomMan.dfm</Transaction>
-    <Transaction>2022/01/17 21:32:54.000.316,C:\Users\tiocu\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\tiocu\Documents\GitHub\testes-aplicaveis-atron\Forms\uFomMan.pas</Transaction>
-    <Transaction>2022/01/17 21:34:17.000.808,C:\Users\tiocu\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\tiocu\Documents\GitHub\testes-aplicaveis-atron\prj_sistema.dproj</Transaction>
+    <Transaction>2022/01/17 21:32:54.000.316,C:\Users\tiocu\Documents\GitHub\testes-aplicaveis-atron\Forms\uFomMan.pas=C:\Users\tiocu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 21:32:54.000.316,C:\Users\tiocu\Documents\GitHub\testes-aplicaveis-atron\Forms\uFomMan.dfm=C:\Users\tiocu\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/17 21:34:17.000.808,C:\Users\tiocu\Documents\GitHub\testes-aplicaveis-atron\prj_sistema.dproj=C:\Users\tiocu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2022/01/17 22:23:09.000.825,=E:\GitHub\sistema_em_delph\Unit1.pas</Transaction>
-    <Transaction>2022/01/17 22:28:23.000.814,E:\GitHub\sistema_em_delph\Forms\uDmDados.pas=E:\GitHub\sistema_em_delph\Unit1.pas</Transaction>
-    <Transaction>2022/01/17 22:28:23.000.814,E:\GitHub\sistema_em_delph\Forms\uDmDados.dfm=E:\GitHub\sistema_em_delph\Unit1.dfm</Transaction>
+    <Transaction>2022/01/17 22:28:23.000.814,E:\GitHub\sistema_em_delph\Unit1.dfm=E:\GitHub\sistema_em_delph\Forms\uDmDados.dfm</Transaction>
+    <Transaction>2022/01/17 22:28:23.000.814,E:\GitHub\sistema_em_delph\Unit1.pas=E:\GitHub\sistema_em_delph\Forms\uDmDados.pas</Transaction>
+    <Transaction>2022/01/18 19:52:36.168,=E:\GitHub\sistema_em_delph\Unit1.pas</Transaction>
+    <Transaction>2022/01/18 19:55:02.753,E:\GitHub\sistema_em_delph\Classes\uBiblioteca.pas=E:\GitHub\sistema_em_delph\Unit1.pas</Transaction>
+    <Transaction>2022/01/18 20:47:40.194,=E:\GitHub\sistema_em_delph\Unit1.pas</Transaction>
+    <Transaction>2022/01/18 20:49:48.599,E:\GitHub\sistema_em_delph\Forms\uFormConfigBanco.dfm=E:\GitHub\sistema_em_delph\Unit1.dfm</Transaction>
+    <Transaction>2022/01/18 20:49:48.599,E:\GitHub\sistema_em_delph\Forms\uFormConfigBanco.pas=E:\GitHub\sistema_em_delph\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

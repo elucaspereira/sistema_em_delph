@@ -87,6 +87,7 @@
         <DCC_DcuOutput>E:\GitHub\sistema_em_delph\dcu\</DCC_DcuOutput>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
+        <Icon_MainIcon>prj_sistema_Icon2.ico</Icon_MainIcon>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">
         <DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
@@ -110,6 +111,11 @@
             <Form>DataModule1</Form>
             <FormType>dfm</FormType>
             <DesignClass>TDataModule</DesignClass>
+        </DCCReference>
+        <DCCReference Include="Classes\uBiblioteca.pas"/>
+        <DCCReference Include="Forms\uFormConfigBanco.pas">
+            <Form>FormConfigBanco</Form>
+            <FormType>dfm</FormType>
         </DCCReference>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
@@ -139,7 +145,7 @@
                 </Excluded_Packages>
             </Delphi.Personality>
             <Deployment Version="3">
-                <DeployFile LocalName="Win32\Debug\prj_sistema.exe" Configuration="Debug" Class="ProjectOutput">
+                <DeployFile LocalName="Exe\prj_sistema.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>prj_sistema.exe</RemoteName>
                         <Overwrite>true</Overwrite>
