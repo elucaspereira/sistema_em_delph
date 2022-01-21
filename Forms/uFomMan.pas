@@ -8,6 +8,7 @@ uses
 
 type
   TFormMain = class(TForm)
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
   private
     { Private declarations }
   public
@@ -20,5 +21,10 @@ var
 implementation
 
 {$R *.dfm}
+
+procedure TFormMain.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+  Application.Terminate;
+end;
 
 end.
